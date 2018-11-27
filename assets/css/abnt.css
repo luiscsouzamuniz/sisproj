@@ -1,0 +1,51 @@
+
+
+body {
+  color: #000;
+  padding: 113.385px 2cm 2cm 3cm;
+
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: Arial;
+  font-style: normal;
+  margin: 3pt 0 3pt 0;
+}
+h1 {
+  font-size: 14pt;
+}
+h2, h3, h4, h5, h6 {
+  font-size: 12pt;
+  font-weight: normal;
+}
+p {
+  margin: 0;
+  font-family: Arial;
+  font-size: 12pt;
+  text-indent: 1.5cm;
+  text-align: justify;
+  line-height: 150%;
+}
+ul {
+  margin-left: 1.5cm;
+}
+p, ul {
+  font-family: Arial;
+  font-size: 12pt;
+  line-height: 150%;
+  text-align: justify;
+}
+blockquote {
+  border: none;
+  font-size: 10pt;
+  line-height: 100%;
+  margin-left: 4cm;
+  text-align: justify;
+}
+table{
+	width: 16cm;
+  border-collapse: collapse;
+}
+
+table tr td{
+  border:1px solid #000000;
+}
